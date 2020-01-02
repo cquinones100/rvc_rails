@@ -1,0 +1,2 @@
+describe RvcRails do
+end
